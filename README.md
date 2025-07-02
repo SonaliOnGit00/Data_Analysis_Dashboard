@@ -1,4 +1,4 @@
-# Process
+# The Process
 ## Import & Clean Data
 Load raw coffee sales data into Excel.
 Clean fields (dates, text, data types), trim spaces, and standardize inconsistent entries.
@@ -39,7 +39,7 @@ Clear visual insights around time, product, geography, and customer performance
 Actionable conclusions to guide marketing, product, and loyalty strategies
 
 
-# Video Reference
+## Video Reference
 <a href= "https://youtu.be/m13o5aqeCbM?si=4NAN2gvWXv1QRfyT"> 
 Mo Chen</a>
 
