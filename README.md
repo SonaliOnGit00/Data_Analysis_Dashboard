@@ -39,7 +39,8 @@ Clear visual insights around time, product, geography, and customer performance
 Actionable conclusions to guide marketing, product, and loyalty strategies
 
 
-## Video Reference
-<a href= "https://youtu.be/m13o5aqeCbM?si=4NAN2gvWXv1QRfyT">
+# Video Reference
+<a href= "https://youtu.be/m13o5aqeCbM?si=4NAN2gvWXv1QRfyT"> 
+Mo Chen</a>
 
   
